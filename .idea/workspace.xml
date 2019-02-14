@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c6ecee2-7c9d-4f15-90fd-f9223cb1337d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie1/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie1/controller/Algorytm1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie2/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie2/controller/Algorytm2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie3/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie3/controller/Algorytm3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie4/Controller/Algorytm4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie4/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie5/controller/PrimaryAlgorytm5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie7/Main7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie7/controller7/Algorytm7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/start/user/USER.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/start/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie5/controller/PrimaryAlgorytm5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie5/controller/PrimaryAlgorytm5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,12 +35,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="38" />
-          <entry key="java" value="4958" />
+          <entry key="java" value="4959" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4958" />
+          <entry key="JAVA" value="4959" />
           <entry key="PLAIN_TEXT" value="38" />
         </counts>
       </usages-collector>
@@ -100,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/blok1Algorytmy/Zadanie5/controller/PrimaryAlgorytm5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="297">
+              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -141,10 +128,10 @@
         <option value="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie4/Main4.java" />
         <option value="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie4/Controller/Algorytm4.java" />
         <option value="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie5/controller/Algorytm5.java" />
-        <option value="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie5/controller/PrimaryAlgorytm5.java" />
         <option value="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie7/controller7/Algorytm7.java" />
         <option value="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie7/Main7.java" />
         <option value="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie5/Main5.java" />
+        <option value="$PROJECT_DIR$/src/blok1Algorytmy/Zadanie5/controller/PrimaryAlgorytm5.java" />
       </list>
     </option>
   </component>
@@ -269,7 +256,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550172116392" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550172277679" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -384,12 +371,12 @@
       <updated>1550061937699</updated>
       <workItem from="1550061940377" duration="3148000" />
       <workItem from="1550075763310" duration="10304000" />
-      <workItem from="1550162012055" duration="10135000" />
+      <workItem from="1550162012055" duration="10422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23587000" />
+    <option name="totallyTimeSpent" value="23874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -573,8 +560,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/blok1Algorytmy/Zadanie5/controller/PrimaryAlgorytm5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="297">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
         </state>
       </provider>
     </entry>

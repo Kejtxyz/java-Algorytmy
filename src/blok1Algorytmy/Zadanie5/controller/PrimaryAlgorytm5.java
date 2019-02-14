@@ -21,6 +21,7 @@ public class PrimaryAlgorytm5 {
             if(isPrimary(i)) {
                 counter++;
                 System.out.println(i + " ");
+                System.out.println(i + " ");
             }
             i++;
         }
